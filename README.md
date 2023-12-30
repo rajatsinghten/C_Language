@@ -1,3 +1,3 @@
 # C_Language
 <b/>
-First Github Repo
+These are some important projects I have worked upon in my First year in C Language!
